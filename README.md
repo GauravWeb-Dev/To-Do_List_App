@@ -9,6 +9,11 @@ A simple and intuitive To-Do List application that helps you organize your tasks
 - Responsive design for all devices.
 - Persistent storage using local storage (or a backend, if applicable).
 
+
+## Live Demo:
+You can view the live version of the app [here](https://gauravweb-dev.github.io/To-Do_List_App/).
+
+
 ## Technologies Used
 - HTML5
 - CSS3
